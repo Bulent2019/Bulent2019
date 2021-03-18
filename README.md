@@ -1,9 +1,29 @@
-- 👋 Hi, I’m Bülent, a second year student at Haaga Helia (UAS), Business IT, Software Engineering
-- 👀 I’m interested in coding with React, Java and Javascript
-- 🌱 I’m currently learning Scrums inside a project at School
-- 📫 How to reach me, my contact detais are in my CV
+![alt text](logo.png)
 
-<!---
-Bulent2019/Bulent2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#   Bülent Arslan
+##  Student
+*   I am a second year student at **Haaga Helia** (UAS),
+    *   `Business IT` 
+    *   with specialization in `Software Engineering`
+
+##  Interests
+*   As you can see I have had several projects during my studies
+    *   Fitness - Trainer, MyTodo with `React`
+    *   Vocable - Trainer, Bookstore in `Spring Boot`
+    *   `Java` 
+    *   `Javascript`, `HTML`, `CSS`
+    *   `React Native`
+
+##  Currently
+*   I have a Software Project going on, were we are utilizing `Scrum`
+    *   `Front end`
+    *   `Back ene`
+    *   `MariaDB`
+    *   `node.js`
+*   I am developing IOS applications 
+    *   `React Native`
+    *   `Firebase`
+
+##  How to reach me?
+*   Email: buelent_@hotmail.com
+*   `CV`
