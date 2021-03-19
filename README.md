@@ -7,12 +7,12 @@
     *   with specialization in `Software Engineering`
 
 ##  Interests
-*   As you can see I have had several projects during my studies
-    *   Fitness - Trainer, MyTodo with `React`
-    *   Vocable - Trainer, Bookstore in `Spring Boot`
+*   I have had several projects during my studies
+    *   [Fitness](https://github.com/Bulent2019/Fitness-Trainer) - Trainer, MyTodo with `React`
+    *   [Vocable](https://github.com/Bulent2019/Vocable-Trainer) - Trainer, Bookstore in `Spring Boot`
+    *   [ToDo - List](https://github.com/Bulent2019/MyTodo)`React Native`
     *   `Java` 
-    *   `Javascript`, `HTML`, `CSS`
-    *   `React Native`
+    *   `Javascript ES6`, `HTML`, `CSS`
 
 ##  Currently
 *   I have a Software Project going on, were we are utilizing `Scrum`
